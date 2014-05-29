@@ -1,4 +1,4 @@
-<? php 
+<?php 
 
 echo "Hi restaurant right?";
 ?>
