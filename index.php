@@ -1,4 +1,1 @@
-<?php 
-
-echo "Hi restaurant right?";
-?>
+<?php include_once("index.html"); ?>
