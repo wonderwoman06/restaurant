@@ -18,7 +18,10 @@ body {
   padding-bottom: 40px;
   color: #5a5a5a;
   /*background: rgba(161,246,193,0.1);*/
-  background: rgba(76,154,247,0.1);
+  /*background: rgba(76,154,247,0.1);*/
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 1000%;
 
 }
 
@@ -116,6 +119,13 @@ html, body {
 
 .titleContent{
   margin-top: -130px;
+
+}
+
+.titleMap{
+  margin-left: 30px;
+  margin-top: -130px;
+  margin-bottom: 10px;
 }
 
 
