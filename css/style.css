@@ -108,6 +108,16 @@ html, body {
   margin-left: 10px;
 }
 
+.lookinto{
+  margin-left: 60px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.titleContent{
+  margin-top: -130px;
+}
+
 
 /* Featurettes
 ------------------------- */
