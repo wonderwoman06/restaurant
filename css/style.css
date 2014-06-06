@@ -25,6 +25,15 @@ body {
 
 }
 
+.colddish{
+  background-color: rgb(205,205,205);
+
+}
+
+.meat{
+  background-color: rgb(90,27,43);
+}
+
 
 
 /* CUSTOMIZE THE NAVBAR
@@ -191,3 +200,5 @@ html, body {
     margin-top: 120px;
   }
 }
+
+
