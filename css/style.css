@@ -156,6 +156,22 @@ html, body {
   padding-bottom: 10px;
 }
 
+.animationLeft{
+  visibility: hidden;
+}
+
+.animationRight{
+  visibility: hidden;
+}
+
+.animationFadeIn{
+  visibility: hidden;
+}
+
+.animationHatch{
+  visibility: hidden;
+}
+
 
 
 
