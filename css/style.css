@@ -273,8 +273,8 @@ html, body {
 
   .navbar-wrapper .container {
     position: absolute;
-    padding-right: -10px;
-    padding-left:  -10px;
+    padding-right: 0px;
+    padding-left:  0px;
     margin-left: 40px;
 
   }
@@ -283,10 +283,6 @@ html, body {
     padding-left:  0;
 
   }
-
-
-
-
 
 
   /* The navbar becomes detached from the top, so we round the corners */
@@ -343,7 +339,7 @@ html, body {
   }
 
   .navbar-nav{
-    font-size: 11px;
+    font-size: 9px;
   }
 
 
