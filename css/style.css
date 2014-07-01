@@ -268,17 +268,20 @@ html, body {
   /* Navbar positioning foo */
   .navbar-wrapper {
     margin-top: 20px;
+
   }
 
   .navbar-wrapper .container {
-    padding-right: 0px;
-    padding-left:  0px;
-
+    position: absolute;
+    padding-right: -10px;
+    padding-left:  -10px;
+    margin-left: 40px;
 
   }
   .navbar-wrapper .navbar {
     padding-right: 0;
     padding-left:  0;
+
   }
 
 
