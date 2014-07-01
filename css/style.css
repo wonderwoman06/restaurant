@@ -324,8 +324,8 @@ html, body {
   .navbar-wrapper .container {
     padding-right: 0px;
     padding-left:  0px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
 
 
   }
@@ -335,6 +335,13 @@ html, body {
   }
 
 
+   .navbar-brand{
+    font-size: 13px;
+  }
+
+  .navbar-nav{
+    font-size: 11px;
+  }
 
 
   /* The navbar becomes detached from the top, so we round the corners */
