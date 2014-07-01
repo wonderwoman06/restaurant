@@ -231,11 +231,11 @@ html, body {
   }
 
    .navbar-brand{
-    font-size: 14px;
+    font-size: 13px;
   }
 
   .navbar-nav{
-    font-size: 12px;
+    font-size: 11px;
   }
 
 
@@ -280,6 +280,8 @@ html, body {
     padding-right: 0;
     padding-left:  0;
   }
+
+
 
 
 
